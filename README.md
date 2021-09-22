@@ -2,7 +2,7 @@
 
 [![mrvkino's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrvkino&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvkino&layout=compact&theme=onedar&exclude_repo=homebrew-tap,homebrew-cask-fonts)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvkino&layout=compact?theme=onedar&exclude_repo=homebrew-tap,homebrew-cask-fonts)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
