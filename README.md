@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![mrvkino's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrvkino&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![mrvkino's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrvkino&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mrvkino/mrvkino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
